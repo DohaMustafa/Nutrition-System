@@ -16,11 +16,11 @@ The patient can then send feedback rating the nutrition plan.
  Upon recieving the patient's info, the data is stored and then used by member function of these classes o generate an appropriate nutrition plan for the patient. 
 ---
 ## Nutrition Plan 
--First Part :
+- First Part :
   Using the patient's info to calculate the daily intake of calories, carbohydrates, protein, calcuim, fibers in a week.
   Determining the body-status of the patient and deciding whether the patient needs to lose weight gain weight or maintain his weight.
   Sending our recommendation to the patient based on the data calculated and the info collected. 
--Second Part:
+- Second Part:
    Populating a map data structure with food items of each food category, each item and its corresponding amount of carbs or protein or calcuim or fibers 
    The map data structures are used to decide which food items are suitable for the patient and that would help him acheive the correct amount of his daily intake from each food      category.
    
