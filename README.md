@@ -1,6 +1,6 @@
 # Nutrition-System
 
-A c++ platform that generates a nutrition plan for users based on their personal and health information 
+A client-server program that generates a nutrition plan for users based on their personal and health information 
 The platform consists of two software applications 
 
 ---
