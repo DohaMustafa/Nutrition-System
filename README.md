@@ -26,7 +26,9 @@ The patient can then send feedback rating the nutrition plan. <br />
    Populating a map data structure with food items of each food category, each item and its corresponding amount of carbs or protein or calcuim or fibers  <br />
    The map data structures are used to decide which food items are suitable for the patient and that would help him acheive the correct amount of his daily intake from each food      category. <br />
    
-   
+ ---
+ ## Class Diagram 
+ 
   
   
 
