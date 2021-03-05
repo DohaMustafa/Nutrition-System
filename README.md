@@ -5,15 +5,15 @@ The platform consists of two software applications
 
 ---
 ## Patient Software (Client)
-A GUI implemented using QT C++ in which patients can fill their personal info -such as Name, Age and Gender- as well as their health info -such as Height, Weight, Diseases, Number of exercise days per week, Blood Pressure and Blood Type.
-Upon recieving the patient's info, He recieves a nutrition plan that fits his nutrition needs.
-The patient can then send feedback rating the nutrition plan. 
+A GUI implemented using QT C++ in which patients can fill their personal info such as Name, Age and Gender as well as their health info such as Height, Weight, Diseases, Number of exercise days per week, Blood Pressure and Blood Type. <br />
+Upon recieving the patient's info, He recieves a nutrition plan that fits his nutrition needs. <br />
+The patient can then send feedback rating the nutrition plan. <br /> 
  
  ---
  ## Nutrition Software (Server)
- C++ program that saves patients's personal and health info as data members of a class. 
- Patient class which is the base class and two derived classes Male and Female classes. 
- Upon recieving the patient's info, the data is stored and then used by member function of these classes o generate an appropriate nutrition plan for the patient. 
+ C++ program that saves patients's personal and health info as data members of a class. <br /> 
+ Patient class which is the base class and two derived classes Male and Female classes. <br /> 
+ Upon recieving the patient's info, the data is stored and then used by member function of these classes o generate an appropriate nutrition plan for the patient.  <br />
 
 ---
 ## Nutrition Plan 
