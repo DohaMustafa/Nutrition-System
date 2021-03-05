@@ -28,7 +28,7 @@ The patient can then send feedback rating the nutrition plan. <br />
    
  ---
  ## Class Diagram 
- 
+  ![alt text](https://github.com/DohaMustafa/Nutrition-System/blob/main/class%20diagram.png?raw=true)  <br />
   
   
 
