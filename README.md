@@ -14,6 +14,7 @@ The patient can then send feedback rating the nutrition plan.
  C++ program that saves patients's personal and health info as data members of a class. 
  Patient class which is the base class and two derived classes Male and Female classes. 
  Upon recieving the patient's info, the data is stored and then used by member function of these classes o generate an appropriate nutrition plan for the patient. 
+
 ---
 ## Nutrition Plan 
 - First Part <br />
