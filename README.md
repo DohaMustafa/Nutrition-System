@@ -46,6 +46,7 @@ The patient can then send feedback rating the nutrition plan. <br />
  - Improve code performance using Multi-threading 
  - Improve the Nutrition plan and its accuracy 
  
+ ---
  ## Class Diagram 
   ![alt text](https://github.com/DohaMustafa/Nutrition-System/blob/main/ClassDiagram.png?raw=true)  <br />
   
