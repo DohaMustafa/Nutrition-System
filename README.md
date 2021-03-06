@@ -34,11 +34,11 @@ The patient can then send feedback rating the nutrition plan. <br />
  - Run the Client exe 
  - Experiment with the GUI
   > Not all the information collected by the user in the GUI are used to generate the Nutrition plan.
- # To create exe on Ubuntu 
-  Run the following commands in the project directory terminal (client directory and server directory)
-  qmake -config release
-  make
-
+  ---
+ ## To create exe on Ubuntu 
+  Run the following commands in the project directory terminal (client directory and server directory)<br/>
+ - qmake -config release
+ - make
  --- 
  
  ## Class Diagram 
