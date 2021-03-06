@@ -28,7 +28,18 @@ The patient can then send feedback rating the nutrition plan. <br />
   
  ---
  ## Usage
- - 
+ - First, Download Client and Server Folder found in the repo. 
+ - Run the Server exe 
+  > Runs a server on localhost on port 2020
+ - Run the Client exe 
+ - Experiment with the GUI
+  > Not all the information collected by the user in the GUI are used to generate the Nutrition plan.
+ # To create exe on Ubuntu 
+  Run the following commands in the project directory terminal (client directory and server directory)
+  qmake -config release
+  make
+
+ --- 
  
  ## Class Diagram 
   ![alt text](https://github.com/DohaMustafa/Nutrition-System/blob/main/ClassDiagram.png?raw=true)  <br />
