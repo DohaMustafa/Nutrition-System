@@ -33,13 +33,18 @@ The patient can then send feedback rating the nutrition plan. <br />
   > Runs a server on localhost on port 2020
  - Run the Client exe 
  - Experiment with the GUI
-  > Not all the information collected by the user in the GUI are used to generate the Nutrition plan.
+  > Not all information collected by the user in the GUI are used to generate the Nutrition plan.
   ---
  ## To create exe on Ubuntu 
   Run the following commands in the project directory terminal (client directory and server directory)<br/>
  - qmake -config release
  - make
  --- 
+ 
+ ## Future Work 
+ - Server can be more user friendly, Enabling user to choose hostname and portnumber 
+ - Improve code performance using Multi-threading 
+ - Improve the Nutrition plan and its accuracy 
  
  ## Class Diagram 
   ![alt text](https://github.com/DohaMustafa/Nutrition-System/blob/main/ClassDiagram.png?raw=true)  <br />
